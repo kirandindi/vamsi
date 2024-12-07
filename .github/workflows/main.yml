@@ -10,8 +10,4 @@
 kirandindi/kirandindi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-              - name: send-message
-  # You may pin to the exact commit or the version.
-  # uses: ZjBlog/message@fa373737547d047af42f8aae3f6046a405077f25
-  uses: ZjBlog/message@v1.5
-          
+
